@@ -1,1 +1,1 @@
-# githops-argocd
+# gitops-argocd
